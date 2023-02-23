@@ -1,0 +1,17 @@
+.clr1{
+  background-color:  rgb(109, 206, 140);
+  border-radius: 15px 0px 0px 15px;
+}
+.clr2{
+  background-color: rgb(210, 230, 249);
+  border-radius: 0px  15px 15px 0px;
+}
+.container-fluid {
+  background-color: rgb(71, 171, 231);
+}
+.bgclr{
+  background-color: rgb(255, 255, 255);
+  border-radius: 0px  0px 15px 0px;
+
+
+}
